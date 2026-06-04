@@ -75,7 +75,7 @@ const Logo: React.FC<LogoProps> = ({ size = 40, showText = true }) => {
           letterSpacing: '-0.3px',
           whiteSpace: 'nowrap',
         }}>
-          PrecisionPest<span style={{ color: '#1ab8d4' }}>Guard</span>
+          PrecisionPest<span style={{ color: '#1ab8d4' }}> Guard</span>
         </span>
       )}
     </div>

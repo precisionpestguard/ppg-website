@@ -3,7 +3,7 @@ import './index.css';
 import Nav from './components/Nav';
 import Hero from './components/Hero';
 import { ProblemStrip, HowItWorks, Comparison } from './components/Sections';
-import { Validation, Roadmap, CTA, Footer } from './components/MoreSections';
+import { Validation, CTA, Footer } from './components/MoreSections';
 import PilotModal from './components/PilotModal';
 
 function App() {

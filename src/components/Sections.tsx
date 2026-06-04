@@ -69,8 +69,8 @@ export const HowItWorks: React.FC = () => {
       <SectionLabel>How it works</SectionLabel>
       <SectionTitle>AI sees what humans miss</SectionTitle>
       <SectionSub>
-        PPG combines camera-based detection with precision automated spraying — a seamless,
-        plug-and-play system for commercial greenhouses.
+        PPG combines camera-based detection with precision automated spraying into a 
+        seamless, plug-and-play system for commercial greenhouses.
       </SectionSub>
 
       <div style={{ marginTop: '60px' }}>

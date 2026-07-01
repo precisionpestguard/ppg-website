@@ -120,8 +120,8 @@ const Hero: React.FC<HeroProps> = ({ onRequestPilot: _onRequestPilot }) => {
             fontSize: 'clamp(2.2rem, 5vw, 3.8rem)',
             color: '#e2e8f0', lineHeight: 1.1, letterSpacing: '-0.5px', marginBottom: '20px',
           }}>
-            See the pest.<br />
-            <em style={{ color: '#4ade80', fontStyle: 'italic' }}>Before the crop loss.</em>
+            Spot the pest.<br /> 
+            <em style={{ color: '#4ade80', fontStyle: 'italic' }}>Save the harvest.</em>
           </h1>
 
           <p style={{

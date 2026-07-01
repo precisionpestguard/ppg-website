@@ -6,12 +6,12 @@ import { SectionLabel, SectionTitle, SectionSub } from './Sections';
 export const Validation: React.FC = () => {
   const cards = [
     {
-      icon: <Users size={20} />, title: '135+ farmer interviews',
+      icon: <Users size={20} />, title: '200+ farmer interviews',
       desc: 'Conducted across B.C. and Ontario greenhouses validating the core pain point of labor shortage and pesticide cost.',
     },
     {
-      icon: <Home size={20} />, title: '2 B.C. greenhouse pilots',
-      desc: 'Active pilot partnerships with commercial greenhouses in British Columbia testing real-world detection and spraying performance.',
+      icon: <Home size={20} />, title: '1 B.C. greenhouse pilots',
+      desc: 'Active pilot partnerships with a commercial greenhouse in British Columbia testing real-world detection and spraying performance.',
     },
     {
       icon: <Clock size={20} />, title: 'Automation partner secured',

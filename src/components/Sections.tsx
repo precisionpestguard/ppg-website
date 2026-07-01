@@ -192,7 +192,7 @@ export const Comparison: React.FC = () => {
 
   return (
     <section id="comparison" className="section-pad" style={{ background: 'rgba(13,24,33,0.8)' }}>
-      <SectionLabel>The difference</SectionLabel>
+      <SectionLabel>Comparison</SectionLabel>
       <SectionTitle>Current methods vs. PPG</SectionTitle>
       <SectionSub>A side-by-side look at traditional greenhouse pest management against the PPG system.</SectionSub>
 
